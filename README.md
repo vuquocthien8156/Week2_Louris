@@ -38,7 +38,8 @@ The following **bonus** features are implemented:
 * [x] Replace the embedded `WebView` with [Chrome Custom Tabs](http://guides.codepath.com/android/Chrome-Custom-Tabs) using a custom action button for sharing.
 
 The following **additional** features are implemented:
-
+ * [x] List anything else that you can get done to improve the app functionality!
+   - Save Filter by SharePreference
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:

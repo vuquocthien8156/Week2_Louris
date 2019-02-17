@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArticleSearching</string>
+    <string name="text">Fashion \u0026 Style</string>
+    <string-array name="list_spinner">
+        <item>Oldest</item>
+        <item>Newest</item>
+    </string-array>
+</resources>

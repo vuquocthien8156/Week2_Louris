@@ -44,9 +44,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/MXRUaPT.gif' title='NYtimes Network Error' width='' alt='Video Walkthrough' />
+<a href="https://imgur.com/IafEBzA"><img src="https://i.imgur.com/IafEBzA.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/iJOK3fZ"><img src="https://i.imgur.com/iJOK3fZ.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ci5an5z"><img src="https://i.imgur.com/ci5an5z.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/z5qNwIS"><img src="https://i.imgur.com/z5qNwIS.gif" title="source: imgur.com" /></a>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en).
 
 ## Notes
 

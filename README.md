@@ -44,10 +44,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgur.com/IafEBzA"><img src="https://i.imgur.com/IafEBzA.gif" title="source: imgur.com" /></a>
-<a href="https://imgur.com/iJOK3fZ"><img src="https://i.imgur.com/iJOK3fZ.gif" title="source: imgur.com" /></a>
-<a href="https://imgur.com/ci5an5z"><img src="https://i.imgur.com/ci5an5z.gif" title="source: imgur.com" /></a>
-<a href="https://imgur.com/z5qNwIS"><img src="https://i.imgur.com/z5qNwIS.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/IafEBzA"><img src="https://i.imgur.com/IafEBzA.gif" title="GIF_1" /></a>
+<a href="https://imgur.com/iJOK3fZ"><img src="https://i.imgur.com/iJOK3fZ.gif" title="GIF_2" /></a>
+<a href="https://imgur.com/ci5an5z"><img src="https://i.imgur.com/ci5an5z.gif" title="GIF_3" /></a>
+<a href="https://imgur.com/z5qNwIS"><img src="https://i.imgur.com/z5qNwIS.gif" title="GIF_4" /></a>
 
 GIF created with [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en).
 

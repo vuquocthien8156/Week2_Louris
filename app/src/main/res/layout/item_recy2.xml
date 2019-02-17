@@ -11,6 +11,6 @@
                 android:id="@+id/txtHead_Linee"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="#d9d9d9"
-                android:padding="2dp"/>
+                android:background="@drawable/layout_item"
+                />
 </LinearLayout>

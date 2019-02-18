@@ -38,14 +38,21 @@ The following **bonus** features are implemented:
 * [x] Replace the embedded `WebView` with [Chrome Custom Tabs](http://guides.codepath.com/android/Chrome-Custom-Tabs) using a custom action button for sharing.
 
 The following **additional** features are implemented:
-
+ * [x] List anything else that you can get done to improve the app functionality!
+   - Save Filter by SharePreference
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/MXRUaPT.gif' title='NYtimes Network Error' width='' alt='Video Walkthrough' />
+<a href="https://i.imgur.com/IafEBzA.gif" target="_blank"> <img src="https://i.imgur.com/IafEBzA.gif" title="GIF_1" /> </a>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<a href="https://i.imgur.com/Q0ALKWv.gif" target="_blank"> <img src="https://i.imgur.com/Q0ALKWv.gif" title="GIF_2" /> </a>
+<a href="https://i.imgur.com/dndNrck.gif" target="_blank"> <img src="https://i.imgur.com/dndNrck.gif" title="GIF_3" /> </a>
+
+<a href="https://i.imgur.com/ci5an5z.gif" target="_blank"> <img src="https://i.imgur.com/ci5an5z.gif" title="GIF_4" /> </a>
+<a href="https://i.imgur.com/z5qNwIS.gif" target="_blank"> <img src="https://i.imgur.com/z5qNwIS.gif" title="GIF_5" /> </a>
+
+GIF created with [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en).
 
 ## Notes
 
